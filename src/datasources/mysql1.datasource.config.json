@@ -1,0 +1,10 @@
+{
+  "name": "mysql1",
+  "connector": "mysql",
+  "url": "",
+  "host": "localhost",
+  "port": 33061,
+  "user": "root",
+  "password": "root",
+  "database": "avanta"
+}
